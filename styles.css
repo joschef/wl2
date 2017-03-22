@@ -1,0 +1,23 @@
+body {
+	background-color: #7AC5CD;
+	font-family: Verdana;
+	text-align: center;
+	
+}
+ol {
+	
+	font-size: 20px;
+	text-align:center-left;
+}
+ul {
+	color: black;
+
+}
+img {
+	height: 200px;
+	width: 300px;
+	border: 1px solid black;
+}
+#Honigsorten {
+	color: red;
+}
